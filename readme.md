@@ -5,7 +5,7 @@ A simple URLshortener in Laravel
 # HOw TO RUN
 
 1. Run
-# composer install
+**composer install**
 in the required directory
 For eg: C:\xampp\htdocs\URLShortener-master
 
@@ -15,8 +15,12 @@ For eg: C:\xampp\htdocs\URLShortener-master
 for eg DB_DATABASE= name_of_databse
        DB_USERNAME=root
        DB_PASSWORD=
+       
+4. run
+      **php artisan migrate**
+   to migrate all the tables in ur database.
 
-4. run the local testing server
+5. run the local testing server
     For eg http://localhost/URLShortener-master/public/
    to display the project in your browser.
    
