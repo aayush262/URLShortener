@@ -13,10 +13,10 @@ For eg: C:\xampp\htdocs\URLShortener-master
 
 3. edit the .env file to give the name of database u created in localhost/phpmyadmin
        or import the url.sql file to use my database.
-       
-for eg DB_DATABASE = url
-       DB_USERNAME = root
-       DB_PASSWORD =
+       for eg
+        DB_DATABASE = url
+        DB_USERNAME = root
+        DB_PASSWORD =
        
 4. if you have your own database then run
       **php artisan migrate**
