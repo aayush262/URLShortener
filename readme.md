@@ -9,7 +9,7 @@ A simple URLshortener in Laravel
 in the required directory
 For eg: C:\xampp\htdocs\URLShortener-master
 
-2. copy the .env.example and rename it ti .env
+2. rename or copy .env.example file to .env
 
 3. edit the .env file to give the name of database u created in localhost/phpmyadmin
        or import the url.sql file to use my database.
