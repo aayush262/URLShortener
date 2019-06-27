@@ -24,5 +24,4 @@ for eg DB_DATABASE= name_of_databse
     For eg http://localhost/URLShortener-master/public/
    to display the project in your browser.
   
-  
-![alt text](https://www.pastepic.xyz/image/capture.NRAqH)
+
